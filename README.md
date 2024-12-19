@@ -43,11 +43,11 @@ Cette application permet de gérer efficacement le suivi des apprenants, de leur
 Clonez le projet et installez les dépendances :
 
 ```bash
-git clone https://github.com/Aichetou-Gaye/gestion_apprenants_app
+git clone https://github.com/mariem2012/Suivi-apprenant-App.git
 ```
 
 ```bash
-cd gestion_apprenants_app
+cd Suivi-apprenant-App
 ```
 
 ```bash
